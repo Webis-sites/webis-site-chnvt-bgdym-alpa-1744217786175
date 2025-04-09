@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-בגדים-אלפא-7786",
-  "businessName": "חנות בגדים אלפא",
-  "created": "2025-04-09T16:56:26.252Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T16:57:02.451Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-bgdym-alpa-1744217786175"
 }
