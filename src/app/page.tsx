@@ -5,6 +5,7 @@ import Layout from '../components/Layout';
 import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
 import FeaturedProducts from '../components/FeaturedProducts';
+import ServiceHighlights from '../components/ServiceHighlights';
 
 export default function HomePage() {
   return (
@@ -15,6 +16,7 @@ export default function HomePage() {
     <Navbar />
     <HeroSection />
     <FeaturedProducts />
+    <ServiceHighlights />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
