@@ -26,6 +26,12 @@
 
   --border-radius-large: 1.5rem;
   --border-radius-button: 9999px;
+
+  --card-radius: 1rem;
+  --shadow-color: rgba(155, 120, 111, 0.1);
+  --shadow-neumorphic-hover: 10px 10px 20px var(--shadow-color), -4px -4px 8px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-sm-hover: 5px 5px 10px var(--shadow-color), -2px -2px 4px rgba(255, 255, 255, 0.8);
+  --transition-default: all 0.3s ease;
 }
 
     html {
