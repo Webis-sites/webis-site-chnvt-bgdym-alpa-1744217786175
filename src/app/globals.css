@@ -9,7 +9,17 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #FFEEAD;
       --secondary-color: #9B786F;
-    }
+    
+  --neumorphic-shadow-light: 8px 8px 16px rgba(174, 174, 192, 0.4);
+  --neumorphic-shadow-dark: -8px -8px 16px rgba(255, 255, 255, 0.7);
+  --neumorphic-inset-light: inset 2px 2px 5px rgba(174, 174, 192, 0.2);
+  --neumorphic-inset-dark: inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --glass-blur: 16px;
+  --border-radius: 1.25rem;
+  --transition-speed: 0.3s;
+}
 
     html {
       scroll-behavior: smooth;
