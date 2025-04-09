@@ -23,6 +23,9 @@
   --shadow-neumorphic: 5px 5px 10px rgba(0, 0, 0, 0.05), -5px -5px 10px rgba(255, 255, 255, 0.7);
   --shadow-neumorphic-sm: 3px 3px 6px rgba(0, 0, 0, 0.05), -3px -3px 6px rgba(255, 255, 255, 0.7);
   --shadow-glassmorphism: 0 8px 32px rgba(0, 0, 0, 0.1);
+
+  --border-radius-large: 1.5rem;
+  --border-radius-button: 9999px;
 }
 
     html {
