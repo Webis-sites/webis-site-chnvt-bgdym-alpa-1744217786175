@@ -1,11 +1,42 @@
 {
-  "timestamp": "2025-04-09T16:57:02.451Z",
+  "timestamp": "2025-04-09T16:58:03.153Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 5,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "structure",
+      "status": "pending",
+      "description": "Main layout component that wraps all pages"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive navigation bar with logo and menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with Hebrew headline, subheadline, and prominent booking CTA"
+    },
+    {
+      "name": "FeaturedProducts",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of featured clothing products with images and details"
+    },
+    {
+      "name": "ServiceHighlights",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of special services offered by the clothing store"
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-alpa-1744217786175"
 }
